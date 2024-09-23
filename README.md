@@ -1,0 +1,1 @@
+# plugins-sf-taxonomy-thumbnail
